@@ -2,7 +2,7 @@
 - 👀 I’m Know a lot about HTML and CSS.
 - 🌱 I’m currently learning Java Script.
 - 💞️ I’m looking to learn a new coding language.
-- 📫 reach me on: softyduck@ducks-united.ml.
+- 📫 reach me on: softyduckyy@gmail.com.
 - 🧑‍💻 Just started learning ElectronJS
 
 <!---
