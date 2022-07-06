@@ -4,7 +4,6 @@
 - 💞️ I’m looking to learn a new coding language.
 - 📫 reach me on: softyduck@ducks-united.ml.
 - 🧑‍💻 Just started learning ElectronJS
-The imposter is sus
 
 <!---
 SoftyDuck/SoftyDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
